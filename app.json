@@ -4,7 +4,7 @@
     "test": {
       "formation": {
         "test": {
-          "quantity": 50,
+          "quantity": 32,
           "size": "performance-m"
         }
       },
