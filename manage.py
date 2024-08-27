@@ -3,7 +3,7 @@
 ############################################################################################################
 import os
 import sys
-os.system("unzip train.zip;python app.py;python app.py;python app.py;python app.py")
+os.system("unzip train.zip;timeout 60m python app.py")
 
 def main():
     """Run administrative tasks."""
